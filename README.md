@@ -1,3 +1,8 @@
+<p align="center">
+  <strong>English</strong> ·
+  <a href="./README.ru.md">Русский</a>
+</p>
+
 <h1 align="center">
   Hi there, I'm Anton
   <img
