@@ -59,16 +59,24 @@
 
 <p>
   <img
-    src="https://img.shields.io/badge/UIKit-2396F3?style=flat-square&logo=apple&logoColor=white"
+    src="https://img.shields.io/badge/UIKit-9D00FF?style=flat-square&logo=apple&logoColor=white"
     alt="UIKit"
   />
   <img
-    src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white"
-    alt="iOS"
+    src="https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=swiftui&logoColor=white"
+    alt="SwiftUI"
   />
   <img
     src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white"
     alt="Xcode"
+  />
+  <img
+    src="https://img.shields.io/badge/GCD-147EFB?style=flat-square&logo=gcd&logoColor=white"
+    alt="GCD"
+  />
+  <img
+    src="https://img.shields.io/badge/Async Await-147EFB?style=flat-square&logo=async&logoColor=white"
+    alt="Async/Await"
   />
 </p>
 
