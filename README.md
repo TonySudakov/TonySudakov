@@ -1,6 +1,14 @@
 <h1 align="center">Hi there, I'm Anton 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">iOS apps developer</h3>
+<div id="badges" align="center">
+  <a href="[My LinkedIn](https://www.linkedin.com/in/antonsudakov/)">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="[My Telegram](https://telegram.me/TonySudakov)">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+</div>
 
 <!--
 **TonySudakov/TonySudakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
